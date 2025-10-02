@@ -11,7 +11,7 @@
 - 프론트엔드: React, TailwindCSS
 - 백엔드: FastAPI
 - 데이터베이스: MongoDB
-- 문서 작성자: (작성자 이름 기입)
+- 문서 작성자: 김민재
 
 ---
 
