@@ -9,7 +9,7 @@
 ## 📌 기본 정보
 - 프로젝트명: Shopping
 - 프론트엔드: React, TailwindCSS
-- 백엔드: FastAPI
+- 백엔드: Python, FastAPI
 - 데이터베이스: MongoDB
 - 문서 작성자: 김민재
 
